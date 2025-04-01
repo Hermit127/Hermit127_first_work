@@ -1,6 +1,0 @@
-1.D:\test.txt
-2.C:\Users\Hermit\Desktop\组员参与情况.txt
-3.https://www.doubao.com/
-4.https://www.baidu.com/
-5.ctrl+alt+F5
-6.ctrl+alt+a
